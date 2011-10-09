@@ -10,5 +10,5 @@ package pepito;
  */
 public class Jaimito {
     private String nombre;
-    
+    private String Hallo; 
 }
